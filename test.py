@@ -1,1 +1,1 @@
-rint("Hello Buddy!!");
+print("Hello Buddy!!");
